@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning ... Machine Learning
 - 👯 I’m looking to collaborate on ... EDA projects on ML
 - 🤔 I’m looking for help with ... Query Optimizations | ML deployment
-- 💬 Ask me about ... Data Analysis | Tableau | QlikSense | Data Visualization
+- 💬 Ask me about ... Data Analysis | Tableau | QlikSense | Data Visualization | KPI & Metric Cases
 - 📫 How to reach me: ... Twitter
 - ⚡ Fun fact: ... WAGMI
 
