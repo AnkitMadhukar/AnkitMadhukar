@@ -34,4 +34,4 @@
 [linkedin]: https://www.linkedin.com/in/ankitmadhukar/
 
 
-<img align="left" alt="Tableau" width="200px" src="https://github.com/AnkitMadhukar/Documentations/blob/main/Tableau.jfif" />
+<img align="left" alt="Tableau" width="800px" src="https://user-images.githubusercontent.com/20611080/155569892-953f836d-5b53-43e6-82d5-ff779417cb30.JPG" />
