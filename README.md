@@ -32,3 +32,6 @@
 [website]: https://public.tableau.com/app/profile/ankit.madhukar
 [twitter]: https://twitter.com/ankit_madhukar
 [linkedin]: https://www.linkedin.com/in/ankitmadhukar/
+
+
+<img align="left" alt="Tableau" width="200px" src="https://github.com/AnkitMadhukar/Documentations/blob/main/Tableau.jfif" />
