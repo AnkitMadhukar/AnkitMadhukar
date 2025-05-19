@@ -2,13 +2,10 @@
 
 
 
-- 🔭 I’m currently working on ... Data Warehousing and Beginner ML
-- 🌱 I’m currently learning ... Machine Learning
-- 👯 I’m looking to collaborate on ... EDA projects on ML
-- 🤔 I’m looking for help with ... Query Optimizations | ML deployment
-- 💬 Ask me about ... Data Analysis | Tableau | QlikSense | Data Visualization | KPI & Metric Cases
-- 📫 How to reach me: ... Twitter
-- ⚡ Fun fact: ... WAGMI
+- 🔭 I’m currently working on AI driven Fintech products, focussing on lending ecosystem in India
+- 🌱 I’m currently learning ... LLM Evals
+- 👯 I’m looking to collaborate on ... Fun side projects.
+- 💬 Ask me about ... GenAI Products| AI and ML | Product Strategy
 
 ### Connect with me:
 
